@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "ava",
+    "test:node": "node --test src/*.node.test.js"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1"
+  }
+}
